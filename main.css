@@ -1,8 +1,8 @@
 #textbody {
     text-align: center;
     position: absolute;
-    top: 40%;
-    left: 58%;
+    top: 45%;
+    left: 50%;
     transform: translate(-50%, -50%);
     color: #000000;
 }
@@ -17,7 +17,7 @@
 }
 
 .fa {
-    padding: 20px;
+    padding: 15px;
     font-size: 30px;
     width: 30px;
     text-align: center;
