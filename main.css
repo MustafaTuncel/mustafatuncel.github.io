@@ -16,10 +16,15 @@
     background-color: #464646;
 }
 
+.links {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+}
+
 .fab {
     padding: 5px;
-    font-size: 60px;
-    width: 60px;
+    font-size: 40px;
+    width: 40px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
@@ -34,8 +39,8 @@
 
 .fa {
     padding: 5px;
-    font-size: 60px;
-    width: 60px;
+    font-size: 40px;
+    width: 40px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
